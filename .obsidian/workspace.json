@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "52af1d986f2fc94a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1649915d1d0d148f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80fd8eae53c0154f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript 딥다이브/45. 프로미스/0. 프로미스.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4a554fa38aebf1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e6acffc23b3bee8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1370b89feb2f3754",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63775c0d07b5494d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6da6be59082387a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "82ec1f1c0c0e7921",
+    "type": "split",
+    "children": [
+      {
+        "id": "06e9ab60ca3264d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49bcd49b7dd3d2e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Javascript 딥다이브/45. 프로미스/0. 프로미스.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "197eb3d3af9ed0fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Javascript 딥다이브/45. 프로미스/0. 프로미스.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8ea8756630f169a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b6023cbc5e327050",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Javascript 딥다이브/45. 프로미스/0. 프로미스.md"
+              }
+            }
+          },
+          {
+            "id": "c1cee1563fcd1866",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f05fca6fa2244f9c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "ddaf38b553cf04ee",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "80fd8eae53c0154f",
+  "lastOpenFiles": [
+    "Javascript 딥다이브/45. 프로미스/비동기 처리를 위한 콜백 패턴의 단점/1. 콜백 헬.md",
+    "Javascript 딥다이브/45. 프로미스/3. 프로미스의 후속 처리 메서드.md",
+    "Javascript 딥다이브/45. 프로미스/0. 프로미스.md",
+    "Javascript 딥다이브/45. 프로미스/1. 비동기 처리를 위한 콜백 패턴의 단점.md",
+    "Javascript 딥다이브/45. 프로미스/2. 프로미스의 생성.md",
+    "첨부파일폴더/Screen Shot 2023-10-08 at 3.10.23 PM.png",
+    "첨부파일폴더/Screen Shot 2023-10-08 at 3.08.32 PM.png",
+    "첨부파일폴더/Screen Shot 2023-10-08 at 3.04.59 PM.png",
+    "Javascript 딥다이브/Javascript 딥다이브.md",
+    "Javascript 딥다이브/45. 프로미스/비동기 처리를 위한 콜백 패턴의 단점/2. 에러 처리의 한계.md",
+    "Javascript 딥다이브/45. 프로미스/비동기 처리를 위한 콜백 패턴의 단점",
+    "Javascript 딥다이브/얕은 복사와 깊은 복사.md",
+    "프로젝트/팀원 소개 프로젝트/S.A.md",
+    "Javascript 딥다이브/45. 프로미스",
+    "Javascript 딥다이브/무제 파일.md",
+    "프로젝트/팀원 소개 프로젝트/20231005 진행도.md",
+    "프로젝트/0101로 만들었다 원래 글자로 바꾸는 코드?.md",
+    "프로젝트/팀원 소개 프로젝트/자기소개 페이지 작성중 error.md",
+    "git/20231004 git 특강.md",
+    "Javascript 딥다이브/17.생성자 함수에 의한 객체 생성/1. Object 생성자 함수.md",
+    "git",
+    "Javascript 딥다이브/17.생성자 함수에 의한 객체 생성/0. 생성자 함수에 의한 객체 생성.md",
+    "Javascript 딥다이브/27.배열/0. 배열.md",
+    "Javascript 딥다이브/17.생성자 함수에 의한 객체 생성",
+    "Javascript 딥다이브/19.프로토타입/0. 프로토타입.md",
+    "Javascript 딥다이브/16.프로퍼티 어트리뷰트/0. 프로퍼티 어트리뷰트.md",
+    "Javascript 딥다이브/20.strict mode/0. strict mode.md",
+    "Javascript 딥다이브/우선순위.md",
+    "Javascript 딥다이브/16.프로퍼티 어트리뷰트/5. 객체 변경 방지.md",
+    "Javascript 딥다이브/16.프로퍼티 어트리뷰트/4. 프로퍼티 정의.md",
+    "Javascript 딥다이브/16.프로퍼티 어트리뷰트/객체 변경 방지/4. 불변 객체.md",
+    "Javascript 딥다이브/16.프로퍼티 어트리뷰트/객체 변경 방지/3. 객체 동결.md",
+    "Javascript 딥다이브/16.프로퍼티 어트리뷰트/객체 변경 방지/2. 객체 밀봉.md",
+    "Javascript 딥다이브/16.프로퍼티 어트리뷰트/객체 변경 방지",
+    "첨부파일폴더/Screen Shot 2023-10-03 at 3.11.23 PM.png",
+    "첨부파일폴더/Screen Shot 2023-10-03 at 2.59.30 PM.png",
+    "첨부파일폴더/Screen Shot 2023-10-01 at 6.46.09 PM.png",
+    "첨부파일폴더/Screen Shot 2023-10-02 at 9.21.50 PM.png",
+    "첨부파일폴더/Screen Shot 2023-10-02 at 9.12.22 PM.png",
+    "Javascript 딥다이브/프로퍼티 어트리뷰트/데이터 프로퍼티와 접근자 프로퍼티/무제 폴더",
+    "Javascript 딥다이브/16.프로퍼티 어트리뷰트/데이터 프로퍼티와 접근자 프로퍼티",
+    "첨부파일폴더/Screen Shot 2023-10-02 at 8.55.04 PM.png",
+    "Javascript 딥다이브/16.프로퍼티 어트리뷰트",
+    "Javascript 딥다이브/27.배열/배열 생성",
+    "첨부파일폴더/Screen Shot 2023-10-02 at 6.20.54 PM.png",
+    "Javascript 딥다이브/19.프로토타입/프로퍼티 열거",
+    "무제 파일.canvas"
+  ]
+}
